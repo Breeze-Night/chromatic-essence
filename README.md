@@ -1,4 +1,7 @@
 # chromatic-essence
+
+Download: https://chrome.google.com/webstore/detail/chromatic-essence/ekjbcpooelbcnoodhegomcmjlolcnhpp
+
 Within the forsaken realms of the digital abyss, behold the Chromatic Essence, an enigmatic and somber color picker Chrome extension that beckons daring souls to tread its gloomy path. Venture forth into the darkness, where the eye dropper tool awaits, a spectral guide amidst the shadows, to reveal the hues hidden in the depths of desolation.
 
 Accursed Eye Dropper: Unleash the cursed eye dropper, an instrument of spectral resonance, to pluck the souls of colors from the accursed landscapes of websites and images. Each color, a fragment of lost vitality, longs to be seen and remembered amidst the abyss of eternal twilight.
